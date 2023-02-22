@@ -2,3 +2,24 @@ body{
   width: 150%;
   height: 320%;
 }
+header{
+ width : 200px;
+ height: 80px;;
+}
+nav{
+  width : 50px;
+  height: 80px;
+}
+div{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+section{
+  width: 300px;
+  height: 120px;
+}
+footer{
+  width : 200px;
+  height: 80px;
+}

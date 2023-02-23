@@ -1,6 +1,7 @@
 body{
-  width: 150%;
-  height: 320%;
+  width: 180vw;
+  height: 320vh;
+  margin: 0;
 }
 header{
  width : 200px;
